@@ -1,3 +1,3 @@
 # Discord-bot-for-banning-people-playing-LoL
-Simple bot that bans people playing LoL for longer than 30 minutes
-Requires discordpy
+Simple bot that bans people playing LoL for longer than 30 minutes. 
+Requires [discordpy](https://discordpy.readthedocs.io/en/stable/intro.html)
